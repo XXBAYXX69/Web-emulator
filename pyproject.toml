@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "School-Filter-Bypass"
+version = "1.0"
+description = "This is basicaly an OS with Chromium (A version Of Chrome) running using webbot. You can use it for ordanary browsing and stuff and can even download stuff! "
+authors = ["@YeetsaJr"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+webbot = "^0.34"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
